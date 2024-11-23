@@ -41,4 +41,4 @@ To use this template, you can either clone it or download the repository. Follow
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/codewithjosh-template-portfolio.git
+git clone https://github.com/anyasauce/codewithjosh-template-portfolio.git
